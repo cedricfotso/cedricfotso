@@ -10,7 +10,7 @@
 Autodidacte depuis 2017, j'ai construit mon parcours entre expérimentation, documentation et projets réels.  
 Géographe de formation, reconverti dans le web par passion, j'ai traversé les rôles de community manager, social media manager, designer graphique et développeur web, avant de me spécialiser dans la création de systèmes digitaux complets.
 
-Aujourd'hui, je pilote **Studio Tâmbour**, un studio de design et développement digital qui accompagne les entreprises dans la conception de leurs plateformes et systèmes web.
+Aujourd'hui, je pilote **Tâmbour**, un studio de design et développement digital qui accompagne les entreprises dans la conception de leurs plateformes et systèmes web.
 
 ---
 
