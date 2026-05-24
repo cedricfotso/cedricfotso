@@ -1,11 +1,11 @@
-# Salut, moi c'est Cédric Aimé Fotso 👋
+# Salut, moi c'est Cédric Aimé Fotso 
 
 > *Créateur de sites web & designer basé au Cameroun.*  
 > Je conçois des identités visuelles, des interfaces et des plateformes WordPress, du design à la mise en production.
 
 ---
 
-## 🧠 À propos
+## À propos
 
 Autodidacte depuis 2017, j'ai construit mon parcours entre expérimentation, documentation et projets réels.  
 Géographe de formation, reconverti dans le web par passion, j'ai traversé les rôles de community manager, social media manager, designer graphique et développeur web, avant de me spécialiser dans la création de systèmes digitaux complets.
@@ -14,7 +14,7 @@ Aujourd'hui, je pilote **Studio Tâmbour**, un studio de design et développemen
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
 **Design**
 `UX / UI` · `Design graphique` · `Identité visuelle` · `Architecture web`
@@ -27,7 +27,7 @@ Aujourd'hui, je pilote **Studio Tâmbour**, un studio de design et développemen
 
 ---
 
-## 🔨 Ce que je construis
+## Ce que je construis
 
 - Des **thèmes et plugins WordPress** sur mesure
 - Des **blocs Gutenberg** personnalisés
@@ -37,7 +37,7 @@ Aujourd'hui, je pilote **Studio Tâmbour**, un studio de design et développemen
 
 ---
 
-## ✍️ J'écris aussi
+## J'écris aussi
 
 Sur [cedricfotso.com/blog](https://cedricfotso.com/blog), je partage des idées autour du design, de WordPress, du travail indépendant et de la création de produits web.
 
@@ -48,7 +48,7 @@ Quelques articles récents :
 
 ---
 
-## 🌍 Me retrouver
+## Me retrouver
 
 | | |
 |---|---|
